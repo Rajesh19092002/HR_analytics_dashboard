@@ -8,3 +8,4 @@
 (7)Sum of MonthalyRate is 21M
 (8)There is 133 employee whose salary is above 15k
 (9)There is 753 employee ehose saalry is below 5k
+
